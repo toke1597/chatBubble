@@ -1,0 +1,3 @@
+name: ChatBubble
+version: @version@
+main: com.toke1597.chatbubble.ChatBubble
